@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"561cc6352637bf23","type":"file","file":"GT Planner/Modelo de Rentabilidad.md","x":-944,"y":-484,"width":744,"height":804},
+		{"id":"99d6692f1b19b034","type":"text","text":"**Análisis Financiero**: Los profesionales de las Big Four utilizan este tipo de información para realizar análisis financieros detallados. Esto puede incluir la evaluación de la liquidez, solvencia, rentabilidad y eficiencia operativa de la empresa.","x":-952,"y":440,"width":760,"height":100},
+		{"id":"bc6427687c7defb9","type":"text","text":"Balance General y Estado de Resultados: La tabla combina elementos del balance general (que muestra activos, pasivos y patrimonio de los accionistas en un momento específico) y del estado de resultados (que muestra ingresos, gastos y beneficios durante un periodo).","x":-952,"y":600,"width":760,"height":80},
+		{"id":"b245aa7a623f6300","type":"text","text":"Auditoría y Revisión: La tabla podría ser utilizada para realizar auditorías de los estados financieros, asegurando que la información sea precisa y cumpla con los principios contables aplicables.","x":-952,"y":760,"width":760,"height":80},
+		{"id":"22446ed913e0dfaf","type":"text","text":"Asesoría Estratégica: Los datos de esta tabla también pueden ser utilizados para asesorar a la empresa cliente sobre gestión financiera, planeación estratégica, y para identificar oportunidades de mejora en las operaciones y estructura de capital.","x":-952,"y":920,"width":760,"height":80},
+		{"id":"eb432685be85ee02","type":"text","text":"Valoración de la Empresa: Los datos históricos y actuales son esenciales para la valoración de empresas, fusiones y adquisiciones, y otros servicios financieros que las Big Four proporcionan a sus clientes.","x":-952,"y":1080,"width":760,"height":80},
+		{"id":"d9d19425eaed896f","type":"text","text":"Reporte y Cumplimiento: La tabla ayuda a preparar reportes que cumplen con los estándares de reporte financiero y con las regulaciones de organismos como la SEC (Securities and Exchange Commission) en Estados Unidos.","x":-952,"y":1240,"width":760,"height":80},
+		{"id":"5c1834190d0e5feb","type":"text","text":"Benchmarking y Análisis Comparativo: Los datos del año actual y anterior permiten a los analistas comparar el rendimiento a lo largo del tiempo y contra competidores o benchmarks de la industria.","x":-952,"y":1400,"width":760,"height":80},
+		{"id":"a1c65f447dc5ec45","type":"text","text":"Comunicación con Inversionistas: Estos datos son fundamentales para la comunicación con los accionistas, inversores y otros stakeholders sobre el rendimiento financiero de la empresa.","x":-952,"y":1560,"width":760,"height":80},
+		{"id":"b132851985566352","type":"text","text":"Si estás trabajando en una Big Four, esta tabla sería el punto de partida para muchas de las tareas que realizarías, desde la auditoría hasta la consultoría estratégica, y sería esencial para comprender la salud financiera y las perspectivas de la empresa cliente.","x":-952,"y":1720,"width":760,"height":80},
+		{"id":"c96e16eb78e117ab","type":"file","file":"GT Planner/Para armar un módulo de finanzas completo y eficiente en una aplicación web.md","x":40,"y":-502,"width":960,"height":3484}
+	],
+	"edges":[
+		{"id":"ca37af439e450ad1","fromNode":"561cc6352637bf23","fromSide":"bottom","toNode":"99d6692f1b19b034","toSide":"top"}
+	]
+}
