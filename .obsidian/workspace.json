@@ -15,9 +15,9 @@
               "state": {
                 "file": "GT Planer - GET Functionality/Planificacion Front-End, Back-end.canvas",
                 "viewState": {
-                  "x": -301,
-                  "y": 1551.2984753994501,
-                  "zoom": -1.5833032767994657
+                  "x": 255.28954862951588,
+                  "y": 1757.8443812367243,
+                  "zoom": -1.5
                 }
               }
             }
@@ -152,6 +152,7 @@
   },
   "active": "b7581912e0eef3b3",
   "lastOpenFiles": [
+    "Planificacion de Tablas.md",
     "GT Planer - GET Functionality/Planificacion Front-End, Back-end.canvas",
     "Cómo suele funcionar el proceso de desarrollo de software en un entorno que utiliza un backend en Azure Functions y un frontend en React..md",
     "Diseno Tablas para BBDD.md",
