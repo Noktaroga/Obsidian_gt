@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "c37d3ebae4228b8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "721999e74e90ab92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7581912e0eef3b3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "GT Planer - GET Functionality/Planificacion Front-End, Back-end.canvas",
+                "viewState": {
+                  "x": -301,
+                  "y": 1551.2984753994501,
+                  "zoom": -1.5833032767994657
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53523de8e9bfb3e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e065f644078730a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3e364e572e36dbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c037b541acdd4df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c61cb2dd0120971",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "d2259ad5f017e101",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e1633de3eed3279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d16bb544ba456411",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GT Planer - GET Functionality/Planificacion Front-End, Back-end.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d5f1aaaadf47d70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GT Planer - GET Functionality/Planificacion Front-End, Back-end.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b80287c442d7d9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5afeb7e2a0445c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GT Planer - GET Functionality/Planificacion Front-End, Back-end.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "b7581912e0eef3b3",
+  "lastOpenFiles": [
+    "GT Planer - GET Functionality/Planificacion Front-End, Back-end.canvas",
+    "Cómo suele funcionar el proceso de desarrollo de software en un entorno que utiliza un backend en Azure Functions y un frontend en React..md",
+    "Diseno Tablas para BBDD.md",
+    "Descripcion de la situacion.md",
+    "Diagrama de flujo proyecto.md",
+    "GT Planner/Como se crea un proyecto en la aplicacion Powerapps.md",
+    "Proyecto GET en GTP - Detalles tecnicos.md",
+    "Proyecto GET en GTP.md",
+    "GT Planner/Modelo de Rentabilidad.md",
+    "Planificacion Base de datos.md",
+    "GT Planner/GT-Planner Repos Expl.canvas",
+    "GT Planer - GET Functionality",
+    "GT Planner/GT-Planner Explanation Repos.md",
+    "GT Planner/Para armar un módulo de finanzas completo y eficiente en una aplicación web.md",
+    "GT Planner/Pasted image 20231205123724.png",
+    "GT Planner/Untitled.canvas",
+    "GT Planner/Modelo de Rentabilidad.canvas",
+    "GT Planner/Proceso en Python.md",
+    "GT Planner/Desarrollo de Aplicacion para Homologacion, DataWorker/Untitled.canvas",
+    "GT Planner/Desarrollo de Aplicacion para Homologacion, DataWorker/Creacion de Codigo.md",
+    "GT Planner/GT Planner Ideas.canvas",
+    "GT Planner/Flujo Proceso Powerapps.md",
+    "GT Planner/Pasted image 20231211103359.png",
+    "GT Planner/Presupuesto Anual de cada linea de servicio.md",
+    "GT Planner/Listado Actividades W50 - Asignación 11-12-23.md",
+    "GT Planner/Investigar WSL - Linux en Windows.md",
+    "GT Planner/Lista.md",
+    "GT Planner/Desarrollo de Aplicacion para Homologacion, DataWorker",
+    "GT Planner/Finalidad y alcances.md",
+    "GT Planner/Pasted image 20231211102915.png",
+    "GT Planner/Pasted image 20231211095900.png",
+    "GT Planner"
+  ]
+}
